@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test  name="Sanity Test">
+        <groups>
+            <define name="sanity">
+                <include name="sanity">
+
+                </include>
+            </define>
+            <run>
+                <include name="sanity"></include>
+            </run>
+        </groups>
+
+
+        <classes>
+            <class name="com.nocommerce.demo.testsuite.ComputerTest"></class>
+            <class name="com.nocommerce.demo.testsuite.ItemTest"></class>
+            <class name="com.nocommerce.demo.testsuite.LoginTest"></class>
+            <class name="com.nocommerce.demo.testsuite.RegistrationTest"></class>
+            <class name="com.nocommerce.demo.testsuite.ShoppingTest"></class>
+
+        </classes>
+
+    </test>
+
+</suite>

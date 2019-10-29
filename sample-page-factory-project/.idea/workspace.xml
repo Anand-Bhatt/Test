@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0cbb4fb-bd1d-4487-87bb-d2315acfa5b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SkGqCUNQKVlVPNQITPxDrzzJA0" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutub\IdeaProjects\sample-page-factory-project" />
+      <recent name="C:\Users\rutub\IdeaProjects\sample-page-factory-project\src\test\java\com\nocommerce\demo" />
+      <recent name="C:\Users\rutub\IdeaProjects\sample-page-factory-project\src\main\java\com\nocommerce\demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/rutub/IdeaProjects/sample-page-factory-project/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng-groups.xml">
+    <configuration name="C:/Users/rutub/IdeaProjects/sample-page-factory-project/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng-groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-page-factory-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng-groups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rutub/IdeaProjects/sample-page-factory-project/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-page-factory-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.userShouldNevigateToComputersPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nocommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nocommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nocommerce.demo.testsuite.ComputerTest" />
+      <option name="METHOD_NAME" value="userShouldNevigateToComputersPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.userShouldNegivateToDesktopPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nocommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nocommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nocommerce.demo.testsuite.ItemTest" />
+      <option name="METHOD_NAME" value="userShouldNegivateToDesktopPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.ShouldLoginSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-page-factory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nocommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nocommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nocommerce.demo.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="ShouldLoginSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/rutub/IdeaProjects/sample-page-factory-project/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng-groups.xml" />
+        <item itemvalue="TestNG.ComputerTest.userShouldNevigateToComputersPageSuccessfully" />
+        <item itemvalue="TestNG.LoginTest.ShouldLoginSuccessfully" />
+        <item itemvalue="TestNG.C:/Users/rutub/IdeaProjects/sample-page-factory-project/src/test/java/com/nocommerce/demo/resources/xmlfiles/testng.xml" />
+        <item itemvalue="TestNG.ItemTest.userShouldNegivateToDesktopPageSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cbb4fb-bd1d-4487-87bb-d2315acfa5b0" name="Default Changelist" comment="" />
+      <created>1572100368440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572100368440</updated>
+    </task>
+    <servers />
+  </component>
+</project>
